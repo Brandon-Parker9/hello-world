@@ -1,4 +1,4 @@
 # hello-world
-Just another repository 
+Hello!!
 
-Hello, Just wanted to introduce myself, my name is Brandon Parker
+Hello, Just wanted to introduce myself, my name is Brandon Parker.
